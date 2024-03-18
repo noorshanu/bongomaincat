@@ -53,7 +53,7 @@ function JoinCommunity() {
               <img src="WEB.png" alt="" className="w-auto h-[55px]" />
              </a>
 
-             <a href="/">
+             <a href="https://twitter.com/BongoCatttt">
               <img src="X.png" alt="" className="w-auto h-[55px]" />
              </a>
             </div>
