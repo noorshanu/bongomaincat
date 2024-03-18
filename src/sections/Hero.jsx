@@ -52,7 +52,7 @@ function Hero() {
         Contract : STrPDx6u4NzEEx4Z3cgRqQZiBHpX2vnKbfc99LvqZp4
         </p>
         <div className="   flex  justify-center gap-6 mt-7 sm:mt-2">
-          <div className=" relative">
+          <div className=" relative z-50">
             <img
               src="/images/btn-pink.png"
               className="w-[120px] sm:w-[220px] h-auto mx-auto sm:mx-0"
@@ -66,7 +66,7 @@ function Hero() {
               DexTools
             </a>
           </div>
-          <div className="relative">
+          <div className="relative z-50">
             <img
               src="/images/btn-sky.png"
               className=" w-[120px] sm:w-[220px] h-auto mx-auto sm:mx-0"
