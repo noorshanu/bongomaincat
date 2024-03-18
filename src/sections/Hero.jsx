@@ -73,7 +73,7 @@ function Hero() {
               alt=""
             />
             <a
-              href=" /"
+              href=" https://t.me/bongocatso1"
               target="_blank"
               className=" absolute top-[30%] sm:top-[32%] left-[12%] sm:left-[22%] -right[50%] font-bold text-sm sm:text-xl"
             >
