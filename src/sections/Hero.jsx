@@ -59,7 +59,7 @@ function Hero() {
               alt=""
             />
             <a
-              href=" /"
+              href=" https://www.dextools.io/app/en/solana/pair-explorer/6Y27rcMjuxNsDBh96GDHmnnk5oqYbTzwTSKeh8sZvCvY?t=1710772819458"
               target="_blank"
               className=" absolute top-[30%] sm:top-[32%] left-[23%] sm:left-[30%] -right[50%] font-bold text-sm sm:text-xl"
             >
