@@ -46,7 +46,7 @@ function JoinCommunity() {
             />
 
             <div className="flex items-center gap-5 justify-center lg:justify-end">
-             <a href="/">
+             <a href="https://t.me/bongocatso1">
               <img src="TELEGRAM.png" alt="" className="w-auto h-[55px]" />
              </a>
              <a href="/">
