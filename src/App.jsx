@@ -17,9 +17,7 @@ function App() {
           </div>
 
           <div className="mb-10 lg:mb-20">
-          <section className="section">
-            
-        </section>
+         
             <Hero />
           </div>
         </div>
