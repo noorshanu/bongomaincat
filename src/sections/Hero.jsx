@@ -48,8 +48,8 @@ function Hero() {
           alt=""
         />
 
-        <p className=" py-2 font-semibold">
-        Contract : 5f65PYwzhSEHfDBqMdqJoQnHyQVMnWQuiVzG7WaX4gu9
+        <p className=" py-2 text-sm sm:text-xl font-semibold">
+        Contract : STrPDx6u4NzEEx4Z3cgRqQZiBHpX2vnKbfc99LvqZp4
         </p>
         <div className="   flex  justify-center gap-6 mt-7 sm:mt-2">
           <div className=" relative">
