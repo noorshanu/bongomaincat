@@ -22,13 +22,14 @@ function Navbar() {
             >
             HOME
             </Link>
-            <Link
-              to="#"
+            <a href="https://t.me/bongocatso1"
+            target="_blank"
+             
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
            Telegram
-            </Link>
+            </a>
           </div>
 
           <div>
@@ -47,13 +48,13 @@ function Navbar() {
           </button>
 
           <div className="items-center justify-evenly text-base font-medium text-black hidden lg:flex">
-            <Link
-              to="roadmap"
+            <a href='https://twitter.com/BongoCatttt'
+             target="_blank"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
          Twitter
-            </Link>
+            </a>
             <Link
               to="tokenomics"
               onClick={() => setSidebarOpen(false)}
@@ -86,20 +87,20 @@ function Navbar() {
           >
             HOME
           </Link>
-          <Link
-            to="#"
-            onClick={() => setSidebarOpen(false)}
-            className="cursor-pointer text-sm xl:text-base"
-          >
-         Telegram
-          </Link>
-          <Link
-            to="roadmap"
-            onClick={() => setSidebarOpen(false)}
-            className="cursor-pointer text-sm xl:text-base"
-          >
-     Twitter
-          </Link>
+          <a href="https://t.me/bongocatso1"
+            target="_blank"
+             
+              onClick={() => setSidebarOpen(false)}
+              className="cursor-pointer text-sm xl:text-base"
+            >
+           Telegram </a>
+          <a href='https://twitter.com/BongoCatttt'
+             target="_blank"
+              onClick={() => setSidebarOpen(false)}
+              className="cursor-pointer text-sm xl:text-base"
+            >
+         Twitter
+            </a>
           <Link
             to="tokenomics"
             onClick={() => setSidebarOpen(false)}
