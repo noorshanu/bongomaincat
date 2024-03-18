@@ -18,16 +18,7 @@ function App() {
 
           <div className="mb-10 lg:mb-20">
           <section className="section">
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
+            
         </section>
             <Hero />
           </div>
