@@ -52,7 +52,7 @@ function Navbar() {
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base"
             >
-              ROADMAP
+         Twitter
             </Link>
             <Link
               to="tokenomics"
